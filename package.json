@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "tsc --project ./tsconfig.build.json --outDir ./dist",
+    "build": "tsc --outDir ./dist",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
